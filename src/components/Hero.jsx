@@ -18,7 +18,7 @@ export const Hero = () => {
                 <p className='my-2 max-w-lg py-6 text-xl leading-relaxed tracking-tighter'>{HERO_CONTENT}</p>
                 <a href="/" target='_blank' rel='noopener noreferrer' download className='bg-white rounded-full p-4 text-sm text-stone-700 mb-10'>Download Resume</a>
             </div>
-
+{/* hello */}
             </div>
 
         </div>
