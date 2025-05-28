@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion'
+import {motion}  from 'framer-motion'
 import React from 'react'
 import { BiLogoPostgresql } from 'react-icons/bi'
 import { DiRedis } from 'react-icons/di'
